@@ -11,10 +11,10 @@ NavMeshProjectSettings:
     cost: 1
   - name: Jump
     cost: 2
-  - name: 
+  - name: Plateform
     cost: 1
-  - name: 
-    cost: 1
+  - name: Escalera
+    cost: 8
   - name: 
     cost: 1
   - name: 
